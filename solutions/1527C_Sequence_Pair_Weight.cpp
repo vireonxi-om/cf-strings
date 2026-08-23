@@ -41,3 +41,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (2): small formatting cleanup on this file — 2026-08-23
