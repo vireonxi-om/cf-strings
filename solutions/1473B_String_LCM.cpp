@@ -45,3 +45,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (5): add complexity note to this file — 2026-08-31
