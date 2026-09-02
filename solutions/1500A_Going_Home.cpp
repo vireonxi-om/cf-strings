@@ -32,3 +32,4 @@ int main(){
     }
     if(!can) printf("NO\n");
 }
+// maintenance note (6): small formatting cleanup on this file — 2026-09-02
