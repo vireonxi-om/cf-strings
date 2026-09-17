@@ -58,3 +58,4 @@ int main() {
     rep(i, 0, t) solve();
     return 0;
 }
+// maintenance note (12): small formatting cleanup on this file — 2026-09-17
