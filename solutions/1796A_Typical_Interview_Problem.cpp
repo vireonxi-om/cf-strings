@@ -63,3 +63,4 @@ int main() {
 
 
 
+// maintenance note (14): small formatting cleanup on this file — 2026-09-22
