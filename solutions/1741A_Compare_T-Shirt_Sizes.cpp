@@ -59,3 +59,4 @@ int main() {
     return 0;
 }
 // maintenance note (12): small formatting cleanup on this file — 2026-09-17
+// maintenance note (18): add editorial link comment to this file — 2026-10-02
