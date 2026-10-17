@@ -72,3 +72,4 @@ int main(){
 
 // maintenance note (16): note time complexity in this file — 2026-09-27
 // maintenance note (23): small formatting cleanup on this file — 2026-10-15
+// maintenance note (24): add edge-case comment to this file — 2026-10-17
